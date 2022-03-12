@@ -69,4 +69,4 @@ ping 数据包也可以通过向目标 IP 地址发送连续的 ping 数据包�
 ## 存放服务器
 由于GitHubPage好像禁止了直接通过http下载文件，我们就使用了vercle服务，文件直接从vercel服务器获取pingofdeath.bat。  
 ****
-作者的，[博客](https://gloridust.tk)
+作者的[博客](https://gloridust.tk)
