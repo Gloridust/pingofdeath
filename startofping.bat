@@ -1,4 +1,4 @@
-@echo off & title pingofdeathStarter by Gloridust
+title pingofdeathStarter by Gloridust
 
  ::-----------D盘下载方案-----------
 ::设置要下载的文件链接，仅支持http协议。必写项。
